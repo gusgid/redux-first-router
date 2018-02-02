@@ -4341,7 +4341,7 @@ path-parse@^1.0.5:
 
 path-to-regexp@^2.1.0:
   version "2.1.0"
-  resolved "http://npm.services.kambi.com:4873/path-to-regexp/-/path-to-regexp-2.1.0.tgz#7e30f9f5b134bd6a28ffc2e3ef1e47075ac5259b"
+  resolved "http://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-2.1.0.tgz#7e30f9f5b134bd6a28ffc2e3ef1e47075ac5259b"
 
 path-type@^1.0.0:
   version "1.1.0"
